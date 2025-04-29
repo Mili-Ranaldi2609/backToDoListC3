@@ -67,7 +67,7 @@ Construido con Node.js, Express y MongoDB.
     PORT=3000
 ### 4. Iniciar el servidor
     npm run dev
-Servidor activo en: http://localhost:3000
+    Servidor activo en: http://localhost:3000
 ---
 ## 📋 Validaciones
 Se utilizan middlewares con express-validator para:
