@@ -60,13 +60,13 @@ Construido con Node.js, Express y MongoDB.
     git clone https://github.com/tu-usuario/backToDoList.git
     cd backToDoList
 ### 2. Instalar dependencias
-npm install
+    npm install
 ### 3. Configurar variables de entorno
-Crear un archivo .env:
-MONGO_URL=mongodb://localhost:27017/todolist
-PORT=3000
+    Crear un archivo .env:
+    MONGO_URL=mongodb://localhost:27017/todolist
+    PORT=3000
 ### 4. Iniciar el servidor
-npm run dev
+    npm run dev
 Servidor activo en: http://localhost:3000
 ---
 ## 📋 Validaciones
