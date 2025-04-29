@@ -48,8 +48,7 @@ src/
 ## 🛠 Cómo correr el proyecto
 
 ### 1. Clonar el repositorio
-
-```bash
+    ```bash
 git clone https://github.com/tu-usuario/todolist-sprint.git
 cd todolist-sprint
 
@@ -57,4 +56,6 @@ cd todolist-sprint
 npm install
 ### 3. Iniciar el servidor
 npm run dev
+
+
 
